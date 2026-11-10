@@ -715,7 +715,7 @@
         "uuid": "4930e8a3-0a58-4861-9c4c-0d8b2139987a"
       }
     ],
-    "used_designators": "X1,U1-2,C1-16,S1-2,J1-4,R1-12,D1-3,L1,#PWR1-47",
+    "used_designators": "X1,U1-2,S1-2,C1-16,R1-12,J1-4,L1,D1-4,#PWR1-48,Q1,WirePad1-2",
     "variants": []
   },
   "sheets": [
@@ -730,10 +730,6 @@
     [
       "867587d1-c52d-46f3-a031-88e5df3b77f6",
       "Output (DAC and headphone)"
-    ],
-    [
-      "4498b24a-6714-40c9-a7b5-967a3537381f",
-      "Power supply"
     ]
   ],
   "text_variables": {},

@@ -1294,6 +1294,477 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "DMG2305UX-7:DMG2305UX-7"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "Q"
+				(at -8.89 3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "DMG2305UX-7"
+				(at -8.89 -6.35 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "DMG2305UX-7:SOT91P240X110-3N_DMG2305UX-7"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Datasheet" "https://s3.amazonaws.com/snapeda/datasheet/DMG2305UX-7_Diodes_Inc.pdf"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Description" "MOSFET P-Ch 20V 5A Enhancement SOT23 | Diodes Inc DMG2305UX-7"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "DATASHEET_URL" "https://s3.amazonaws.com/snapeda/datasheet/DMG2305UX-7_Diodes_Inc.pdf"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MANUFACTURER" "Diodes Inc."
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MAXIMUM_PACKAGE_HEIGHT" "1.1mm"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MPN" "DMG2305UX-7"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "PARTREV" "09/2018"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Package" "SOT-23 Diodes Inc."
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "SOURCE_URL" "https://www.snapeda.com/parts/DMG2305UX-7/Diodes+Inc./view-part/"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "STANDARD" "IPC-7351B"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(symbol "DMG2305UX-7_0_0"
+				(polyline
+					(pts
+						(xy 0 -2.54) (xy 0 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 2.54) (xy 0.762 3.175)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 1.905) (xy 0.762 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 0) (xy 0.762 0.762)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 -0.762) (xy 0.762 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 -2.54) (xy 0.762 -1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 -2.54) (xy 2.54 -2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 -3.175) (xy 0.762 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 2.54) (xy 0.762 2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 2.54) (xy 3.81 2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.54 2.54)
+					(radius 0.3592)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 1.524 0.762) (xy 1.524 -0.762) (xy 2.54 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -2.54) (xy 2.54 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -2.54) (xy 3.81 -2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.54 -2.54)
+					(radius 0.3592)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 2.54) (xy 3.81 -0.508)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 -0.508) (xy 3.302 -0.508)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 -0.508) (xy 3.81 -2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 -0.508) (xy 3.302 0.254) (xy 4.318 0.254) (xy 3.81 -0.508)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.318 -0.508) (xy 3.81 -0.508)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -2.54 -2.54 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -5.08 90)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 5.08 270)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:C"
 			(pin_numbers
 				(hide yes)
@@ -1762,6 +2233,171 @@
 					(at 0 -3.81 90)
 					(length 1.27)
 					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Diode:PMEG6010ELR"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "D"
+				(at 0 2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "PMEG6010ELR"
+				(at 0 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+				(at 0 -4.445 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PMEG6010ELR.pdf"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "60V, 1A low leakage current MEGA Schottky barrier rectifier, SOD-123W"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "ir diode"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "Nexperia*CFP3*SOD?123W*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "PMEG6010ELR_0_1"
+				(polyline
+					(pts
+						(xy -1.905 0.635) (xy -1.905 1.27) (xy -1.27 1.27) (xy -1.27 -1.27) (xy -0.635 -1.27) (xy -0.635 -0.635)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.27) (xy 1.27 -1.27) (xy -1.27 0) (xy 1.27 1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "PMEG6010ELR_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "A"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4490,6 +5126,121 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "GND_1"
+			(power global)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "GND"
+				(at 0 -3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "GND_1_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GND_1_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "GND_2"
 			(power global)
 			(pin_numbers
@@ -4933,6 +5684,125 @@
 					(at 0 0 270)
 					(length 0)
 					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "custom:Wire Pad"
+			(pin_names
+				(offset 0.762)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "WirePad"
+				(at 0 1.524 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Wire Pad"
+				(at 0 -1.778 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Wire pad"
+				(at -0.254 -4.064 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "point tp"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "Pin* Test*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "Wire Pad_0_1"
+				(circle
+					(center -1.778 0)
+					(radius 0.762)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -5477,6 +6347,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Battery Connection"
+		(exclude_from_sim no)
+		(at 154.178 18.542 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "09b4d427-29ed-47c1-b131-65769e1d18db")
+	)
 	(text "GET RID OF THIS"
 		(exclude_from_sim no)
 		(at 243.078 147.574 0)
@@ -5536,16 +6416,16 @@
 		(uuid "36c1e3af-c675-41dd-b018-b2c24f782f7f")
 	)
 	(junction
-		(at 193.04 30.48)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "38033106-517a-4a6b-b316-2f3e53db273c")
-	)
-	(junction
 		(at 85.09 124.46)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "392e6263-4719-4b2b-a504-1576b71d1d31")
+	)
+	(junction
+		(at 180.34 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "39915ac1-8a37-4417-8bbb-c1b18e25823b")
 	)
 	(junction
 		(at 234.95 30.48)
@@ -5564,6 +6444,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4b016a5c-ee37-40ff-adca-35bec4aef674")
+	)
+	(junction
+		(at 194.31 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "52dacf11-66e7-432f-9965-ca352a19c50f")
 	)
 	(junction
 		(at 44.45 114.3)
@@ -5594,6 +6480,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "66c9a594-1a29-4566-8605-cd033354c0c6")
+	)
+	(junction
+		(at 193.04 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "857d038f-904c-43f5-be8f-d13d4c451963")
 	)
 	(junction
 		(at 74.93 170.18)
@@ -5721,6 +6613,16 @@
 	)
 	(wire
 		(pts
+			(xy 167.64 30.48) (xy 180.34 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "01964fb7-1a54-49b5-9916-cb87b81e4619")
+	)
+	(wire
+		(pts
 			(xy 73.66 119.38) (xy 76.2 119.38)
 		)
 		(stroke
@@ -5821,6 +6723,16 @@
 	)
 	(wire
 		(pts
+			(xy 180.34 25.4) (xy 180.34 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "176283b4-f313-47b2-8a5a-56cf1cd56566")
+	)
+	(wire
+		(pts
 			(xy 64.77 83.82) (xy 73.66 83.82)
 		)
 		(stroke
@@ -5871,16 +6783,6 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 30.48) (xy 195.58 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "21f56b36-a7bc-4901-aebe-85e2d2ae8a80")
-	)
-	(wire
-		(pts
 			(xy 147.32 160.02) (xy 158.75 160.02)
 		)
 		(stroke
@@ -5908,6 +6810,16 @@
 			(type default)
 		)
 		(uuid "290b9d42-5000-436f-8ff5-3fde5e1b7418")
+	)
+	(wire
+		(pts
+			(xy 193.04 20.32) (xy 193.04 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a077c15-8cb6-4a90-b6e6-6b9e9b883f71")
 	)
 	(wire
 		(pts
@@ -6041,6 +6953,16 @@
 	)
 	(wire
 		(pts
+			(xy 190.5 30.48) (xy 193.04 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3dc6ae18-96e2-40dc-8f6a-0d482c8d5568")
+	)
+	(wire
+		(pts
 			(xy 43.18 24.13) (xy 43.18 25.4)
 		)
 		(stroke
@@ -6091,7 +7013,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 31.75) (xy 193.04 30.48)
+			(xy 194.31 31.75) (xy 194.31 30.48)
 		)
 		(stroke
 			(width 0)
@@ -6281,6 +7203,16 @@
 	)
 	(wire
 		(pts
+			(xy 193.04 30.48) (xy 194.31 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "60b698d2-a5e3-4932-852f-5a075cc14a03")
+	)
+	(wire
+		(pts
 			(xy 44.45 114.3) (xy 46.99 114.3)
 		)
 		(stroke
@@ -6381,6 +7313,16 @@
 	)
 	(wire
 		(pts
+			(xy 168.91 17.78) (xy 172.72 17.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7116a06a-6049-492f-b3fd-0f9a2ec9d4b1")
+	)
+	(wire
+		(pts
 			(xy 252.73 214.63) (xy 256.54 214.63)
 		)
 		(stroke
@@ -6438,6 +7380,16 @@
 			(type default)
 		)
 		(uuid "7999d92a-bb72-4e61-9665-caf5e4f169ee")
+	)
+	(wire
+		(pts
+			(xy 194.31 30.48) (xy 195.58 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7b42aabd-cddf-4436-8e7b-e8ee91037d30")
 	)
 	(wire
 		(pts
@@ -6651,6 +7603,16 @@
 	)
 	(wire
 		(pts
+			(xy 158.75 24.13) (xy 161.29 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9f1c1b3d-2424-409d-8283-c8c4d7d27565")
+	)
+	(wire
+		(pts
 			(xy 63.5 165.1) (xy 66.04 165.1)
 		)
 		(stroke
@@ -6781,6 +7743,16 @@
 	)
 	(wire
 		(pts
+			(xy 180.34 30.48) (xy 182.88 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b5d1e24e-8da1-4c07-bd03-b239f6457ced")
+	)
+	(wire
+		(pts
 			(xy 223.52 30.48) (xy 223.52 31.75)
 		)
 		(stroke
@@ -6891,16 +7863,6 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 29.21) (xy 193.04 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c5ed55a0-d8f4-412a-9c30-d7f248e49445")
-	)
-	(wire
-		(pts
 			(xy 234.95 30.48) (xy 234.95 31.75)
 		)
 		(stroke
@@ -6908,6 +7870,16 @@
 			(type default)
 		)
 		(uuid "c6cc81de-adb6-4c13-8f6c-23f0ae3bc5ba")
+	)
+	(wire
+		(pts
+			(xy 172.72 17.78) (xy 172.72 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c7b23161-4212-448b-916d-2c1cd28546c7")
 	)
 	(wire
 		(pts
@@ -6958,6 +7930,16 @@
 			(type default)
 		)
 		(uuid "ccdf9413-0aec-4e11-9c7c-9367c809e997")
+	)
+	(wire
+		(pts
+			(xy 182.88 20.32) (xy 193.04 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cdeee1fb-6d19-4e6b-9680-cf6c648bac10")
 	)
 	(wire
 		(pts
@@ -8992,6 +9974,163 @@
 		)
 	)
 	(symbol
+		(lib_name "GND_1")
+		(lib_id "power:GND")
+		(at 161.29 24.13 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "28528382-3fa9-4761-bef4-1af4a483b8fb")
+		(property "Reference" "#PWR048"
+			(at 161.29 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 161.29 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 161.29 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 161.29 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 161.29 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "9a9dc86d-30f5-41b3-bbf8-f617809555fb")
+		)
+		(instances
+			(project "AGAR"
+				(path "/4930e8a3-0a58-4861-9c4c-0d8b2139987a"
+					(reference "#PWR048")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "custom:Wire Pad")
+		(at 153.67 24.13 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "286c2786-2c0b-4cd0-b249-1f31184eec1b")
+		(property "Reference" "WirePad2"
+			(at 153.67 25.654 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Wire Pad"
+			(at 155.448 21.59 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 153.67 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 153.67 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Wire pad"
+			(at 153.924 20.066 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0000de1b-372c-420a-9c6e-4adf2d42c902")
+		)
+		(instances
+			(project "AGAR"
+				(path "/4930e8a3-0a58-4861-9c4c-0d8b2139987a"
+					(reference "WirePad2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_name "GND_5")
 		(lib_id "power:GND")
 		(at 73.66 154.94 270)
@@ -9698,6 +10837,86 @@
 		)
 	)
 	(symbol
+		(lib_id "Diode:PMEG6010ELR")
+		(at 186.69 30.48 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "423b24f5-90b1-41d4-a89b-0ba37202a353")
+		(property "Reference" "D4"
+			(at 187.0075 24.13 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PMEG6010ELR"
+			(at 187.0075 26.67 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+			(at 186.69 26.035 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PMEG6010ELR.pdf"
+			(at 186.69 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "60V, 1A low leakage current MEGA Schottky barrier rectifier, SOD-123W"
+			(at 186.69 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "84597988-fa41-4d4b-9604-99bc5545e4a8")
+		)
+		(pin "2"
+			(uuid "264bed18-9436-4a4c-b6df-7cbcc88b4f87")
+		)
+		(instances
+			(project "AGAR"
+				(path "/4930e8a3-0a58-4861-9c4c-0d8b2139987a"
+					(reference "D4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_name "GND_5")
 		(lib_id "power:GND")
 		(at 73.66 180.34 270)
@@ -10087,6 +11306,188 @@
 			(project "AGAR"
 				(path "/4930e8a3-0a58-4861-9c4c-0d8b2139987a"
 					(reference "S1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "DMG2305UX-7:DMG2305UX-7")
+		(at 177.8 22.86 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "51e3ea37-ee01-4bad-89ee-715b664dacab")
+		(property "Reference" "Q1"
+			(at 177.8 13.97 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "DMG2305UX-7"
+			(at 177.8 16.51 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "DMG2305UX-7:SOT91P240X110-3N_DMG2305UX-7"
+			(at 177.8 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Datasheet" "https://s3.amazonaws.com/snapeda/datasheet/DMG2305UX-7_Diodes_Inc.pdf"
+			(at 177.8 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Description" "MOSFET P-Ch 20V 5A Enhancement SOT23 | Diodes Inc DMG2305UX-7"
+			(at 177.8 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "DATASHEET_URL" "https://s3.amazonaws.com/snapeda/datasheet/DMG2305UX-7_Diodes_Inc.pdf"
+			(at 177.8 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MANUFACTURER" "Diodes Inc."
+			(at 177.8 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "1.1mm"
+			(at 177.8 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MPN" "DMG2305UX-7"
+			(at 177.8 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "PARTREV" "09/2018"
+			(at 177.8 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Package" "SOT-23 Diodes Inc."
+			(at 177.8 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "SOURCE_URL" "https://www.snapeda.com/parts/DMG2305UX-7/Diodes+Inc./view-part/"
+			(at 177.8 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "STANDARD" "IPC-7351B"
+			(at 177.8 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(pin "1"
+			(uuid "27186b8d-6510-459d-a545-eb97f0c04197")
+		)
+		(pin "3"
+			(uuid "7e489eee-51c7-4b22-932c-84a5f29eb19b")
+		)
+		(pin "2"
+			(uuid "177474cf-5fc0-4534-bfd3-9a630cfbc824")
+		)
+		(instances
+			(project "AGAR"
+				(path "/4930e8a3-0a58-4861-9c4c-0d8b2139987a"
+					(reference "Q1")
 					(unit 1)
 				)
 			)
@@ -10846,6 +12247,84 @@
 		)
 	)
 	(symbol
+		(lib_id "custom:Wire Pad")
+		(at 163.83 17.78 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "660d2956-3d6a-426e-9465-10098903236b")
+		(property "Reference" "WirePad1"
+			(at 163.83 19.304 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Wire Pad"
+			(at 165.608 15.24 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 163.83 17.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 163.83 17.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Wire pad"
+			(at 164.084 13.716 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "56cd4c8e-381c-419f-884f-160ebd8d3b3d")
+		)
+		(instances
+			(project "AGAR"
+				(path "/4930e8a3-0a58-4861-9c4c-0d8b2139987a"
+					(reference "WirePad1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_name "GND_5")
 		(lib_id "power:GND")
 		(at 73.66 99.06 270)
@@ -11496,7 +12975,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 193.04 35.56 0)
+		(at 194.31 35.56 0)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -11508,7 +12987,7 @@
 		(fields_autoplaced yes)
 		(uuid "72143c83-9810-4c68-bdb6-6021f1d73d44")
 		(property "Reference" "C15"
-			(at 189.23 34.2899 0)
+			(at 190.5 34.2899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11519,7 +12998,7 @@
 			)
 		)
 		(property "Value" "10µF"
-			(at 189.23 36.8299 0)
+			(at 190.5 36.8299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11530,7 +13009,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 194.0052 31.75 0)
+			(at 195.2752 31.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11541,7 +13020,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 193.04 35.56 0)
+			(at 194.31 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11552,7 +13031,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 193.04 35.56 0)
+			(at 194.31 35.56 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13794,7 +15273,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 193.04 29.21 0)
+		(at 167.64 30.48 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13805,7 +15284,7 @@
 		(fields_autoplaced yes)
 		(uuid "cd567b77-16a0-493c-be20-e993e4c7692f")
 		(property "Reference" "#PWR031"
-			(at 193.04 33.02 0)
+			(at 167.64 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13816,7 +15295,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 193.04 24.13 0)
+			(at 167.64 25.4 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13826,7 +15305,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 193.04 29.21 0)
+			(at 167.64 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13837,7 +15316,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 193.04 29.21 0)
+			(at 167.64 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13848,7 +15327,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 193.04 29.21 0)
+			(at 167.64 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15133,7 +16612,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 193.04 39.37 0)
+		(at 194.31 39.37 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15144,7 +16623,7 @@
 		(fields_autoplaced yes)
 		(uuid "fc57895e-99d3-491e-8c72-ee6fc866ea1c")
 		(property "Reference" "#PWR032"
-			(at 193.04 45.72 0)
+			(at 194.31 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15155,7 +16634,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 193.04 44.45 0)
+			(at 194.31 44.45 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15165,7 +16644,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 193.04 39.37 0)
+			(at 194.31 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15176,7 +16655,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 193.04 39.37 0)
+			(at 194.31 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15187,7 +16666,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 193.04 39.37 0)
+			(at 194.31 39.37 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15204,52 +16683,6 @@
 				(path "/4930e8a3-0a58-4861-9c4c-0d8b2139987a"
 					(reference "#PWR032")
 					(unit 1)
-				)
-			)
-		)
-	)
-	(sheet
-		(at 209.55 59.69)
-		(size 22.86 21.59)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "4498b24a-6714-40c9-a7b5-967a3537381f")
-		(property "Sheetname" "Power supply"
-			(at 209.55 58.9784 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "power.kicad_sch"
-			(at 209.55 81.8646 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "AGAR"
-				(path "/4930e8a3-0a58-4861-9c4c-0d8b2139987a"
-					(page "4")
 				)
 			)
 		)
