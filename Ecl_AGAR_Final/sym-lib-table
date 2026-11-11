@@ -1,4 +1,6 @@
 (sym_lib_table
-  (version 7)
-  (lib (name "Eclectronics")(type "KiCad")(uri "${KIPRJMOD}/../Eclectronics/Eclectronics.kicad_sym")(options "")(descr ""))
+	(version 7)
+	(lib (name "Eclectronics") (type "KiCad") (uri "${KIPRJMOD}/../Eclectronics/Eclectronics.kicad_sym") (options "") (descr ""))
+	(lib (name "DMG2305UX-7") (type "KiCad") (uri "C:/Users/afong/Desktop/eclectronics/Agar-synth-Eclectronics/Schematic/Ecl_footprints.pretty/DMG2305UX-7/DMG2305UX-7.kicad_sym") (options "") (descr ""))
+	(lib (name "custom") (type "KiCad") (uri "C:/Users/afong/Desktop/eclectronics/Agar-synth-Eclectronics/Schematic") (options "") (descr ""))
 )
