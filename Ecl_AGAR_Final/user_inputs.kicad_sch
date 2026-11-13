@@ -2538,6 +2538,16 @@
 		)
 		(uuid "4fefa929-e45f-4393-b733-688ad2c60be3")
 	)
+	(text "TROUBLESHOOT ON BREADBOARD FIRST"
+		(exclude_from_sim no)
+		(at 82.296 32.512 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6214487a-07bd-4fa3-b2f6-ae239d5402f7")
+	)
 	(text "Address: 0x5B"
 		(exclude_from_sim no)
 		(at 200.914 108.712 0)
