@@ -436,7 +436,7 @@
         "uuid": "4930e8a3-0a58-4861-9c4c-0d8b2139987a"
       }
     ],
-    "used_designators": "D5-6,#PWR4,#PWR31-32,#PWR37-38,#PWR46-48,#PWR62-88,C15-16,C21-29,Q2,WirePad13-14,R21-51,SW3,U2,U5-6,CON1",
+    "used_designators": "D3-10,#PWR4,#PWR62-68,#PWR71-72,#PWR75,#PWR77,#PWR79,#PWR81,#PWR89-92,C21-26,C30,Q2,WirePad13-14,R12,R21-46,R52-53,SW3,U5-6,CON1,S3,J5,TP1-3",
     "variants": []
   },
   "sheets": [

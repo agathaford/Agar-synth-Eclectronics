@@ -820,6 +820,129 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Connector:TestPoint"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.762)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "TP"
+				(at 0 6.858 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "TestPoint"
+				(at 0 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 5.08 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 5.08 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "test point"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "test point tp"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "Pin* Test*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "TestPoint_0_1"
+				(circle
+					(center 0 3.302)
+					(radius 0.762)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "TestPoint_1_1"
+				(pin passive line
+					(at 0 0 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:C"
 			(pin_numbers
 				(hide yes)
@@ -1692,6 +1815,12 @@
 		(uuid "38d165b9-e9a6-47b2-98b4-2203ec696e3a")
 	)
 	(junction
+		(at 240.03 91.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "661e705e-b655-4395-ba92-a555c891e912")
+	)
+	(junction
 		(at 118.11 95.25)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1714,6 +1843,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d0edab59-8f27-49da-9780-7e2d49f3c9cd")
+	)
+	(junction
+		(at 247.65 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d201c69b-c192-4396-8370-d61a72c1561a")
+	)
+	(junction
+		(at 134.62 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f5380bde-be43-4679-8a53-b87948d6c365")
 	)
 	(junction
 		(at 87.63 95.25)
@@ -1763,7 +1904,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 95.25) (xy 151.13 95.25)
+			(xy 118.11 95.25) (xy 134.62 95.25)
 		)
 		(stroke
 			(width 0)
@@ -1823,7 +1964,7 @@
 	)
 	(wire
 		(pts
-			(xy 240.03 74.93) (xy 240.03 96.52)
+			(xy 240.03 74.93) (xy 240.03 91.44)
 		)
 		(stroke
 			(width 0)
@@ -1863,6 +2004,16 @@
 	)
 	(wire
 		(pts
+			(xy 157.48 69.85) (xy 173.99 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b6cbc16-5d19-4b4c-8213-60e034e0190e")
+	)
+	(wire
+		(pts
 			(xy 222.25 49.53) (xy 240.03 49.53)
 		)
 		(stroke
@@ -1893,7 +2044,7 @@
 	)
 	(wire
 		(pts
-			(xy 240.03 69.85) (xy 254 69.85)
+			(xy 240.03 69.85) (xy 264.16 69.85)
 		)
 		(stroke
 			(width 0)
@@ -1910,6 +2061,16 @@
 			(type default)
 		)
 		(uuid "6f0d52a6-0006-4f03-8378-3c306bf0d304")
+	)
+	(wire
+		(pts
+			(xy 247.65 72.39) (xy 240.03 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76c5532b-7c0d-4fc1-88ae-c33d51ec90f5")
 	)
 	(wire
 		(pts
@@ -1953,6 +2114,16 @@
 	)
 	(wire
 		(pts
+			(xy 247.65 72.39) (xy 247.65 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a811edf-ab04-4aea-8e24-515d7fd7568d")
+	)
+	(wire
+		(pts
 			(xy 85.09 95.25) (xy 87.63 95.25)
 		)
 		(stroke
@@ -1980,6 +2151,16 @@
 			(type default)
 		)
 		(uuid "aa8e6b7f-1401-4d23-b42d-aad8afcdd9a3")
+	)
+	(wire
+		(pts
+			(xy 247.65 81.28) (xy 247.65 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "afbc85eb-85ad-4286-bf49-52bb4b38358a")
 	)
 	(wire
 		(pts
@@ -2073,6 +2254,16 @@
 	)
 	(wire
 		(pts
+			(xy 134.62 95.25) (xy 151.13 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da296d6b-98b8-46ec-acc3-883c3ce8ac97")
+	)
+	(wire
+		(pts
 			(xy 87.63 87.63) (xy 87.63 95.25)
 		)
 		(stroke
@@ -2103,7 +2294,7 @@
 	)
 	(wire
 		(pts
-			(xy 254 77.47) (xy 254 78.74)
+			(xy 264.16 77.47) (xy 264.16 78.74)
 		)
 		(stroke
 			(width 0)
@@ -2120,6 +2311,26 @@
 			(type default)
 		)
 		(uuid "f3a34a1c-8164-48e8-8108-a490df12d00a")
+	)
+	(wire
+		(pts
+			(xy 252.73 72.39) (xy 247.65 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f6f0398e-6660-481c-873f-d7ffadbbc556")
+	)
+	(wire
+		(pts
+			(xy 240.03 91.44) (xy 240.03 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f788b5df-5d21-4912-ad60-23b07935691d")
 	)
 	(wire
 		(pts
@@ -2302,6 +2513,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 240.03 91.44 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0393c660-3000-46ec-938a-d00f7200c6b0")
+		(property "Reference" "TP2"
+			(at 245.11 90.1699 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Amp_testpoint"
+			(at 245.11 92.7099 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 240.03 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 240.03 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 240.03 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "fb8cb2c6-d9ef-4663-84f8-fe64e5fb6d1e")
+		)
+		(instances
+			(project "AGAR"
+				(path "/4930e8a3-0a58-4861-9c4c-0d8b2139987a/867587d1-c52d-46f3-a031-88e5df3b77f6"
+					(reference "TP2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 118.11 83.82 180)
 		(unit 1)
@@ -2324,7 +2614,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "80"
+		(property "Value" "2k"
 			(at 120.65 85.0899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2483,7 +2773,7 @@
 				)
 			)
 		)
-		(property "Value" "80"
+		(property "Value" "2k"
 			(at 34.29 91.44 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2748,7 +3038,7 @@
 				)
 			)
 		)
-		(property "Value" "40"
+		(property "Value" "1k"
 			(at 102.87 91.44 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2887,6 +3177,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 157.48 69.85 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1d270450-a1ae-42c2-ba70-4642270de614")
+		(property "Reference" "#PWR071"
+			(at 157.48 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 157.48 74.93 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 157.48 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 157.48 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 157.48 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8741b96c-43b1-4e6f-b698-a4e9471704ed")
+		)
+		(instances
+			(project "AGAR"
+				(path "/4930e8a3-0a58-4861-9c4c-0d8b2139987a/867587d1-c52d-46f3-a031-88e5df3b77f6"
+					(reference "#PWR071")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 62.23 95.25 270)
 		(unit 1)
@@ -2908,7 +3276,7 @@
 				)
 			)
 		)
-		(property "Value" "40"
+		(property "Value" "1k"
 			(at 62.23 91.44 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2968,7 +3336,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 254 73.66 180)
+		(at 264.16 73.66 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2979,7 +3347,7 @@
 		(fields_autoplaced yes)
 		(uuid "3a19d7f2-4b5c-4a01-9a3f-f231155b0965")
 		(property "Reference" "C26"
-			(at 257.81 72.3899 0)
+			(at 267.97 72.3899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2990,7 +3358,7 @@
 			)
 		)
 		(property "Value" "0.1u"
-			(at 257.81 74.9299 0)
+			(at 267.97 74.9299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3001,7 +3369,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 253.0348 69.85 0)
+			(at 263.1948 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3012,7 +3380,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 254 73.66 0)
+			(at 264.16 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3023,7 +3391,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 254 73.66 0)
+			(at 264.16 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3243,7 +3611,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 254 78.74 0)
+		(at 264.16 78.74 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3254,7 +3622,7 @@
 		(fields_autoplaced yes)
 		(uuid "3f53eded-fa90-4756-a003-9dbd848ae3f5")
 		(property "Reference" "#PWR037"
-			(at 254 85.09 0)
+			(at 264.16 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3265,7 +3633,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 254 83.82 0)
+			(at 264.16 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3275,7 +3643,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 254 78.74 0)
+			(at 264.16 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3286,7 +3654,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 254 78.74 0)
+			(at 264.16 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3297,7 +3665,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 254 78.74 0)
+			(at 264.16 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3342,7 +3710,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "80"
+		(property "Value" "2k"
 			(at 59.69 85.0899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3423,7 +3791,7 @@
 				)
 			)
 		)
-		(property "Value" "40"
+		(property "Value" "1k"
 			(at 92.71 91.44 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3503,7 +3871,7 @@
 				)
 			)
 		)
-		(property "Value" "40"
+		(property "Value" "1k"
 			(at 71.12 91.44 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3556,6 +3924,88 @@
 			(project "AGAR"
 				(path "/4930e8a3-0a58-4861-9c4c-0d8b2139987a/867587d1-c52d-46f3-a031-88e5df3b77f6"
 					(reference "R28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 247.65 77.47 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5514f25a-6871-4eb6-a12f-6da22f1dc14d")
+		(property "Reference" "C30"
+			(at 251.46 76.1999 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0.1u"
+			(at 251.46 78.7399 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+			(at 246.6848 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 247.65 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 247.65 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "e181587e-1aa5-4e17-9ae3-729c4cadcff2")
+		)
+		(pin "1"
+			(uuid "68c4fb4f-4f96-4a85-abb3-6b540dca3384")
+		)
+		(instances
+			(project "AGAR"
+				(path "/4930e8a3-0a58-4861-9c4c-0d8b2139987a/867587d1-c52d-46f3-a031-88e5df3b77f6"
+					(reference "C30")
 					(unit 1)
 				)
 			)
@@ -3820,7 +4270,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "80"
+		(property "Value" "2k"
 			(at 69.85 85.0899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3901,7 +4351,7 @@
 				)
 			)
 		)
-		(property "Value" "40"
+		(property "Value" "1k"
 			(at 81.28 91.44 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3982,7 +4432,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "80"
+		(property "Value" "2k"
 			(at 48.26 85.0899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4121,7 +4571,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 240.03 72.39 270)
+		(at 252.73 72.39 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4132,7 +4582,7 @@
 		(fields_autoplaced yes)
 		(uuid "943a8e4f-5355-4556-a907-ab2848f0db72")
 		(property "Reference" "#PWR088"
-			(at 236.22 72.39 0)
+			(at 248.92 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4143,7 +4593,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 243.84 72.3899 90)
+			(at 256.54 72.3899 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4154,7 +4604,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 240.03 72.39 0)
+			(at 252.73 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4165,7 +4615,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 240.03 72.39 0)
+			(at 252.73 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4176,7 +4626,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 240.03 72.39 0)
+			(at 252.73 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4275,6 +4725,85 @@
 			(project "AGAR"
 				(path "/4930e8a3-0a58-4861-9c4c-0d8b2139987a/867587d1-c52d-46f3-a031-88e5df3b77f6"
 					(reference "C25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 134.62 95.25 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b8522b28-f57d-44e5-8fdd-282f37a1023f")
+		(property "Reference" "TP1"
+			(at 137.16 90.6779 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "DAC_testpoint"
+			(at 137.16 93.2179 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 139.7 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 139.7 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 134.62 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "eafad7ab-5e56-47cb-bb0a-02d742dec844")
+		)
+		(instances
+			(project "AGAR"
+				(path "/4930e8a3-0a58-4861-9c4c-0d8b2139987a/867587d1-c52d-46f3-a031-88e5df3b77f6"
+					(reference "TP1")
 					(unit 1)
 				)
 			)
@@ -4383,7 +4912,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "80"
+		(property "Value" "2k"
 			(at 90.17 85.0899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4465,7 +4994,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "80"
+		(property "Value" "2k"
 			(at 100.33 85.0899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4546,7 +5075,7 @@
 				)
 			)
 		)
-		(property "Value" "40"
+		(property "Value" "1k"
 			(at 50.8 91.44 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4627,7 +5156,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "80"
+		(property "Value" "2k"
 			(at 110.49 85.0899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4709,7 +5238,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "80"
+		(property "Value" "2k"
 			(at 80.01 85.0899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4847,6 +5376,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 247.65 82.55 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f399546b-f39d-43af-8d43-734b41a50ca7")
+		(property "Reference" "#PWR089"
+			(at 247.65 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 247.65 87.63 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 247.65 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 247.65 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 247.65 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "77e22c28-93e4-4d65-9e18-44f7b20cfb7d")
+		)
+		(instances
+			(project "AGAR"
+				(path "/4930e8a3-0a58-4861-9c4c-0d8b2139987a/867587d1-c52d-46f3-a031-88e5df3b77f6"
+					(reference "#PWR089")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 113.03 95.25 270)
 		(unit 1)
@@ -4868,7 +5475,7 @@
 				)
 			)
 		)
-		(property "Value" "40"
+		(property "Value" "1k"
 			(at 113.03 91.44 90)
 			(show_name no)
 			(do_not_autoplace no)
