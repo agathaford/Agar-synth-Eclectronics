@@ -2464,7 +2464,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Headphone_Jack_3.5mm_SJ1-3523N"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 241.808 102.87 90)
 			(hide yes)
 			(show_name no)
@@ -2625,7 +2625,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Headphone_Jack_3.5mm_SJ1-3523N"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 119.888 83.82 90)
 			(hide yes)
 			(show_name no)
@@ -2783,7 +2783,7 @@
 				)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Headphone_Jack_3.5mm_SJ1-3523N"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 34.29 97.028 90)
 			(hide yes)
 			(show_name no)
@@ -2963,7 +2963,7 @@
 				)
 			)
 		)
-		(property "Footprint" "AGAR_footprints:POT_P120PK-x25_TTE"
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3386F_Vertical"
 			(at 151.13 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -3048,7 +3048,7 @@
 				)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Headphone_Jack_3.5mm_SJ1-3523N"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 102.87 93.472 90)
 			(hide yes)
 			(show_name no)
@@ -3286,7 +3286,7 @@
 				)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Headphone_Jack_3.5mm_SJ1-3523N"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 62.23 93.472 90)
 			(hide yes)
 			(show_name no)
@@ -3721,7 +3721,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Headphone_Jack_3.5mm_SJ1-3523N"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 58.928 83.82 90)
 			(hide yes)
 			(show_name no)
@@ -3801,7 +3801,7 @@
 				)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Headphone_Jack_3.5mm_SJ1-3523N"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 92.71 93.472 90)
 			(hide yes)
 			(show_name no)
@@ -3881,7 +3881,7 @@
 				)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Headphone_Jack_3.5mm_SJ1-3523N"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 71.12 93.472 90)
 			(hide yes)
 			(show_name no)
@@ -4199,7 +4199,7 @@
 				)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Headphone_Jack_3.5mm_SJ1-3523N"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 193.04 51.308 90)
 			(hide yes)
 			(show_name no)
@@ -4281,7 +4281,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Headphone_Jack_3.5mm_SJ1-3523N"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 69.088 83.82 90)
 			(hide yes)
 			(show_name no)
@@ -4361,7 +4361,7 @@
 				)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Headphone_Jack_3.5mm_SJ1-3523N"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 81.28 93.472 90)
 			(hide yes)
 			(show_name no)
@@ -4443,7 +4443,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Headphone_Jack_3.5mm_SJ1-3523N"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 47.498 83.82 90)
 			(hide yes)
 			(show_name no)
@@ -4923,7 +4923,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Headphone_Jack_3.5mm_SJ1-3523N"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 89.408 83.82 90)
 			(hide yes)
 			(show_name no)
@@ -5005,7 +5005,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Headphone_Jack_3.5mm_SJ1-3523N"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 99.568 83.82 90)
 			(hide yes)
 			(show_name no)
@@ -5085,7 +5085,7 @@
 				)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Headphone_Jack_3.5mm_SJ1-3523N"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 50.8 93.472 90)
 			(hide yes)
 			(show_name no)
@@ -5167,7 +5167,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Headphone_Jack_3.5mm_SJ1-3523N"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 109.728 83.82 90)
 			(hide yes)
 			(show_name no)
@@ -5249,7 +5249,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Headphone_Jack_3.5mm_SJ1-3523N"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 79.248 83.82 90)
 			(hide yes)
 			(show_name no)
@@ -5485,7 +5485,7 @@
 				)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Headphone_Jack_3.5mm_SJ1-3523N"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 113.03 93.472 90)
 			(hide yes)
 			(show_name no)

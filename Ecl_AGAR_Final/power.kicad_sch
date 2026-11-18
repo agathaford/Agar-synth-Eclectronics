@@ -4783,7 +4783,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm"
+		(property "Footprint" "AGAR_footprints:SLW-1276864_CUD"
 			(at 203.2 86.36 0)
 			(hide yes)
 			(show_name no)
