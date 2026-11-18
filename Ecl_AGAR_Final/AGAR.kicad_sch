@@ -10011,7 +10011,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "DEBUG"
+		(property "Value" "isoSPI"
 			(at 243.84 162.5599 0)
 			(show_name no)
 			(do_not_autoplace no)

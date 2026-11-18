@@ -2546,7 +2546,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D3.0mm"
 			(at 240.03 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -2863,7 +2863,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N08E_TEX"
+		(property "Footprint" "AGAR_footprints:AMP_to_speaker"
 			(at 173.99 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -2963,7 +2963,7 @@
 				)
 			)
 		)
-		(property "Footprint" "POT_P120PK-x25_TTE"
+		(property "Footprint" "AGAR_footprints:POT_P120PK-x25_TTE"
 			(at 151.13 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -3128,7 +3128,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 231.14 97.4852 0)
 			(hide yes)
 			(show_name no)
@@ -3368,7 +3368,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 263.1948 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -3963,7 +3963,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 246.6848 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -4682,7 +4682,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 239.0648 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -4764,7 +4764,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D3.0mm"
 			(at 139.7 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -4841,7 +4841,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 222.25 48.5648 0)
 			(hide yes)
 			(show_name no)

@@ -1,4 +1,5 @@
 (fp_lib_table
-  (version 7)
-  (lib (name "Eclectronics")(type "KiCad")(uri "${KIPRJMOD}/../Eclectronics/Eclectronics.pretty")(options "")(descr ""))
+	(version 7)
+	(lib (name "Eclectronics") (type "KiCad") (uri "${KIPRJMOD}/../Eclectronics/Eclectronics.pretty") (options "") (descr ""))
+	(lib (name "AGAR_footprints") (type "KiCad") (uri "${KIPRJMOD}/AGAR_footprints.pretty") (options "") (descr ""))
 )
