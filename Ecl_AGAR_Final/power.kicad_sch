@@ -4473,7 +4473,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AGAR_footprints:capacitive touch button"
 			(at 72.39 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -4864,7 +4864,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AGAR_footprints:capacitive touch button"
 			(at 72.39 71.12 0)
 			(hide yes)
 			(show_name no)

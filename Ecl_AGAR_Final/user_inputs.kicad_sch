@@ -4511,7 +4511,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AGAR_footprints:capacitive touch button"
 			(at 227.33 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -4671,7 +4671,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AGAR_footprints:capacitive touch button"
 			(at 227.33 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -6105,7 +6105,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AGAR_footprints:capacitive touch keyboard"
 			(at 237.49 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -6698,7 +6698,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AGAR_footprints:capacitive touch button"
 			(at 227.33 127 0)
 			(hide yes)
 			(show_name no)
@@ -7092,7 +7092,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AGAR_footprints:capacitive touch button"
 			(at 227.33 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -7256,7 +7256,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AGAR_footprints:capacitive touch button"
 			(at 227.33 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -7335,7 +7335,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AGAR_footprints:capacitive touch button"
 			(at 227.33 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -8065,7 +8065,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AGAR_footprints:capacitive touch button"
 			(at 227.33 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -8865,7 +8865,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AGAR_footprints:capacitive touch button"
 			(at 227.33 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -10199,7 +10199,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AGAR_footprints:capacitive touch button"
 			(at 227.33 129.54 0)
 			(hide yes)
 			(show_name no)
