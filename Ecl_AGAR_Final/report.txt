@@ -1,0 +1,141 @@
+Info: Processing symbol 'C1:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C5:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C6:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C8:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C9:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C10:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C11:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C12:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C13:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C14:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C15:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C16:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C17:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C18:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C19:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C20:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C21:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C22:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C23:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C24:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C25:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C26:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C27:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C28:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C29:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C30:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'CON1:Connector_Audio:Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal'.
+Info: Processing symbol 'WirePad13:AGAR_footprints:capacitive touch button'.
+Info: Processing symbol 'WirePad14:AGAR_footprints:capacitive touch button'.
+Info: Processing symbol 'X1:Eclectronics:WE-SPXO_IQXO-791'.
+Info: Processing symbol 'D1:LED_SMD:LED_0805_2012Metric'.
+Info: Processing symbol 'D2:Eclectronics:IN-S85TATRGB'.
+Info: Processing symbol 'D3:LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Processing symbol 'D4:LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Processing symbol 'D5:LED_SMD:LED_0805_2012Metric'.
+Info: Processing symbol 'D6:Diode_SMD:Nexperia_CFP3_SOD-123W'.
+Info: Processing symbol 'D7:LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Processing symbol 'D8:LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Processing symbol 'D9:LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Processing symbol 'J1:Eclectronics:USB4105-GF-A'.
+Info: Processing symbol 'J4:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical'.
+Info: Processing symbol 'J5:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical'.
+Info: Processing symbol 'L1:Eclectronics:AOTA-B201610S3R3-101-T'.
+Info: Processing symbol 'Q2:AGAR_footprints:DMG2305UX_7_SOT-23_DIO'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R4:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R5:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R6:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R7:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R8:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R9:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R10:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R11:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R12:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R13:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R14:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R15:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R16:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R17:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R18:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R19:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R20:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R21:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R22:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R23:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R24:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R25:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R26:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R27:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R28:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R29:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R30:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R31:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R32:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R33:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R34:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R35:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R36:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R37:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R38:Potentiometer_THT:Potentiometer_Bourns_3386F_Vertical'.
+Info: Processing symbol 'R39:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R40:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R41:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R42:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R43:Potentiometer_THT:Potentiometer_Bourns_3386F_Vertical'.
+Info: Processing symbol 'R44:Potentiometer_THT:Potentiometer_Bourns_3386F_Vertical'.
+Info: Processing symbol 'R45:Potentiometer_THT:Potentiometer_Bourns_3386F_Vertical'.
+Info: Processing symbol 'R46:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R47:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R48:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R49:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R50:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R51:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R52:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R53:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'S1:Eclectronics:TL3301AFxxxxJ'.
+Info: Processing symbol 'S2:Eclectronics:TL3301AFxxxxJ'.
+Info: Processing symbol 'S3:Eclectronics:TL3301AFxxxxJ'.
+Info: Processing symbol 'SW2:AGAR_footprints:EC11E18244A5_ALPS'.
+Info: Processing symbol 'SW3:AGAR_footprints:SLW-1276864_CUD'.
+Info: Processing symbol 'TP1:TestPoint:TestPoint_Pad_D3.0mm'.
+Info: Processing symbol 'TP2:TestPoint:TestPoint_Pad_D3.0mm'.
+Info: Processing symbol 'TP3:TestPoint:TestPoint_Pad_D3.0mm'.
+Info: Processing symbol 'U1:Eclectronics:RP2350A_QFN-60_EP_7.75x7.75_Pitch0.4mm'.
+Info: Processing symbol 'U2:AGAR_footprints:SOT-23-5_M5_MCH'.
+Info: Processing symbol 'U3:Package_DFN_QFN:UQFN-20_3x3mm_P0.4mm'.
+Info: Processing symbol 'U4:Package_DFN_QFN:UQFN-20_3x3mm_P0.4mm'.
+Info: Processing symbol 'U5:Eclectronics:SOT95P255X145-3N'.
+Info: Processing symbol 'U6:AGAR_footprints:AMP_to_speaker'.
+Info: Processing symbol 'WirePad3:AGAR_footprints:capacitive touch keyboard'.
+Info: Processing symbol 'WirePad4:AGAR_footprints:capacitive touch button'.
+Info: Processing symbol 'WirePad5:AGAR_footprints:capacitive touch button'.
+Info: Processing symbol 'WirePad6:AGAR_footprints:capacitive touch button'.
+Info: Processing symbol 'WirePad7:AGAR_footprints:capacitive touch button'.
+Info: Processing symbol 'WirePad8:AGAR_footprints:capacitive touch button'.
+Info: Processing symbol 'WirePad9:AGAR_footprints:capacitive touch button'.
+Info: Processing symbol 'WirePad10:AGAR_footprints:capacitive touch button'.
+Info: Processing symbol 'WirePad11:AGAR_footprints:capacitive touch button'.
+Info: Processing symbol 'WirePad12:AGAR_footprints:capacitive touch button'.
+Warning: No net found for component CON1 pad T (no pin T in symbol).
+Warning: No net found for component CON1 pad S (no pin S in symbol).
+Warning: No net found for component CON1 pad R (no pin R in symbol).
+Warning: No net found for component SW2 pad 7 (no pin 7 in symbol).
+Warning: No net found for component SW2 pad 6 (no pin 6 in symbol).
+Warning: No net found for component SW3 pad 3 (no pin 3 in symbol).
+Warning: No net found for component SW2 pad D (no pin D in symbol).
+Warning: No net found for component SW2 pad E (no pin E in symbol).
+Error: CON1 pad 1 not found in Connector_Audio:Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal.
+Error: CON1 pad 2 not found in Connector_Audio:Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal.
+Error: CON1 pad 3 not found in Connector_Audio:Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal.
+Error: SW2 pad S1 not found in AGAR_footprints:EC11E18244A5_ALPS.
+Error: SW2 pad S2 not found in AGAR_footprints:EC11E18244A5_ALPS.
+
+
+Info: Total warnings: 8, errors: 5.
