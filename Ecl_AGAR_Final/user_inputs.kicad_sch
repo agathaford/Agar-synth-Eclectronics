@@ -3097,7 +3097,7 @@
 	)
 	(text "Waveform button"
 		(exclude_from_sim no)
-		(at 93.472 153.924 0)
+		(at 150.622 162.814 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3106,7 +3106,7 @@
 		(uuid "e9fb5351-5936-491f-aad3-f2f0fd1fc7f9")
 	)
 	(junction
-		(at 105.41 171.45)
+		(at 162.56 180.34)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "00cb211c-bf83-4855-be1b-e9224150c27d")
@@ -3377,6 +3377,16 @@
 	)
 	(wire
 		(pts
+			(xy 99.06 153.67) (xy 107.95 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f668479-68d8-4043-9658-768bed296dac")
+	)
+	(wire
+		(pts
 			(xy 93.98 43.18) (xy 99.06 43.18)
 		)
 		(stroke
@@ -3467,7 +3477,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 170.18) (xy 105.41 171.45)
+			(xy 162.56 179.07) (xy 162.56 180.34)
 		)
 		(stroke
 			(width 0)
@@ -3577,6 +3587,16 @@
 	)
 	(wire
 		(pts
+			(xy 99.06 166.37) (xy 107.95 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "704ad196-9e2b-4730-b1d3-d2ec27b86560")
+	)
+	(wire
+		(pts
 			(xy 71.12 43.18) (xy 73.66 43.18)
 		)
 		(stroke
@@ -3594,6 +3614,16 @@
 			(type default)
 		)
 		(uuid "727f1bc2-a7d6-46cb-88c2-44545f1c692e")
+	)
+	(wire
+		(pts
+			(xy 115.57 153.67) (xy 120.65 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "761e73e8-0a88-4c5f-9a35-8ec59a5f1b38")
 	)
 	(wire
 		(pts
@@ -3627,6 +3657,16 @@
 	)
 	(wire
 		(pts
+			(xy 115.57 166.37) (xy 120.65 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7921c2f8-4cca-469f-8ad7-2cc05bbc6e59")
+	)
+	(wire
+		(pts
 			(xy 50.8 31.75) (xy 53.34 31.75)
 		)
 		(stroke
@@ -3657,7 +3697,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 171.45) (xy 105.41 172.72)
+			(xy 162.56 180.34) (xy 162.56 181.61)
 		)
 		(stroke
 			(width 0)
@@ -3867,7 +3907,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 171.45) (xy 107.95 171.45)
+			(xy 162.56 180.34) (xy 165.1 180.34)
 		)
 		(stroke
 			(width 0)
@@ -3904,6 +3944,16 @@
 			(type default)
 		)
 		(uuid "d4614fa5-a197-41fc-afde-5c85dd893aea")
+	)
+	(wire
+		(pts
+			(xy 99.06 179.07) (xy 107.95 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d74ab506-084a-4d12-ac79-fc344dfe8aef")
 	)
 	(wire
 		(pts
@@ -4017,6 +4067,16 @@
 	)
 	(wire
 		(pts
+			(xy 115.57 179.07) (xy 120.65 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee425839-00ee-4e36-ac51-092e82d9663e")
+	)
+	(wire
+		(pts
 			(xy 190.5 144.78) (xy 196.85 144.78)
 		)
 		(stroke
@@ -4117,7 +4177,7 @@
 	)
 	(hierarchical_label "WAVE"
 		(shape input)
-		(at 107.95 171.45 0)
+		(at 165.1 180.34 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4125,6 +4185,28 @@
 			(justify left)
 		)
 		(uuid "0ab2369d-dbef-4f3d-8615-315ad1cb006b")
+	)
+	(hierarchical_label "LED7"
+		(shape input)
+		(at 91.44 166.37 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "215c5e55-c34b-467a-85d5-c42602a8c2a9")
+	)
+	(hierarchical_label "LED6"
+		(shape input)
+		(at 91.44 153.67 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4a87dbb0-30f5-4b25-ae40-2bd0a68dca45")
 	)
 	(hierarchical_label "Pot3"
 		(shape input)
@@ -4158,6 +4240,17 @@
 			(justify right)
 		)
 		(uuid "6a03164a-75e3-4773-a9ea-02bac357949e")
+	)
+	(hierarchical_label "LED8"
+		(shape input)
+		(at 91.44 179.07 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7186e9f0-c9e2-4c0c-a523-4d6cf8aeb8df")
 	)
 	(hierarchical_label "SDA"
 		(shape input)
@@ -4368,6 +4461,83 @@
 			(project "AGAR"
 				(path "/4930e8a3-0a58-4861-9c4c-0d8b2139987a/aa053052-08e8-4d8c-b3d1-c385341cb5fe"
 					(reference "R20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 120.65 153.67 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "077d4825-1d7f-4bee-a229-df200825ccdd")
+		(property "Reference" "#PWR093"
+			(at 120.65 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 123.698 156.464 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 120.65 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 120.65 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 120.65 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f8924f91-3770-4703-aaef-ccf9c127c18b")
+		)
+		(instances
+			(project "AGAR"
+				(path "/4930e8a3-0a58-4861-9c4c-0d8b2139987a/aa053052-08e8-4d8c-b3d1-c385341cb5fe"
+					(reference "#PWR093")
 					(unit 1)
 				)
 			)
@@ -4687,6 +4857,83 @@
 			(project "AGAR"
 				(path "/4930e8a3-0a58-4861-9c4c-0d8b2139987a/aa053052-08e8-4d8c-b3d1-c385341cb5fe"
 					(reference "R50")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 120.65 179.07 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "0c648c1a-08ee-40e4-9714-94d2d8f97f65")
+		(property "Reference" "#PWR095"
+			(at 120.65 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 123.698 181.864 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 120.65 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 120.65 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 120.65 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "14f57379-4c76-46a0-8135-0a566c5d1ee8")
+		)
+		(instances
+			(project "AGAR"
+				(path "/4930e8a3-0a58-4861-9c4c-0d8b2139987a/aa053052-08e8-4d8c-b3d1-c385341cb5fe"
+					(reference "#PWR095")
 					(unit 1)
 				)
 			)
@@ -6722,7 +6969,7 @@
 	(symbol
 		(lib_name "+3V3_1")
 		(lib_id "power:+3V3")
-		(at 105.41 162.56 0)
+		(at 162.56 171.45 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6733,7 +6980,7 @@
 		(fields_autoplaced yes)
 		(uuid "580c6f58-6d2d-4397-bf57-ed885d59c73d")
 		(property "Reference" "#PWR072"
-			(at 105.41 166.37 0)
+			(at 162.56 175.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6744,7 +6991,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 105.41 157.48 0)
+			(at 162.56 166.37 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6754,7 +7001,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 105.41 162.56 0)
+			(at 162.56 171.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6765,7 +7012,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 105.41 162.56 0)
+			(at 162.56 171.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6776,7 +7023,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 105.41 162.56 0)
+			(at 162.56 171.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7120,6 +7367,177 @@
 	)
 	(symbol
 		(lib_id "Device:R")
+		(at 111.76 166.37 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "684848d8-f2df-4772-a398-5432627ac5f2")
+		(property "Reference" "R55"
+			(at 111.76 160.02 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "43"
+			(at 111.76 162.56 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 111.76 168.148 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 111.76 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 111.76 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "85cbf7cc-5ad4-4e06-a929-c9d0bcaa540c")
+		)
+		(pin "1"
+			(uuid "b161616e-8e8c-4ecd-b295-a46bf52085c0")
+		)
+		(instances
+			(project "AGAR"
+				(path "/4930e8a3-0a58-4861-9c4c-0d8b2139987a/aa053052-08e8-4d8c-b3d1-c385341cb5fe"
+					(reference "R55")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 95.25 179.07 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6ef38e91-8963-4f72-89a0-751bfaad6a61")
+		(property "Reference" "D12"
+			(at 96.8375 171.45 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED"
+			(at 96.8375 173.99 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+			(at 95.25 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 95.25 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 95.25 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 95.25 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "3fe952ba-d3ed-4eb7-acf0-d508d314ff85")
+		)
+		(pin "1"
+			(uuid "9bb78662-fde7-457f-8f7e-3a6af3a44971")
+		)
+		(instances
+			(project "AGAR"
+				(path "/4930e8a3-0a58-4861-9c4c-0d8b2139987a/aa053052-08e8-4d8c-b3d1-c385341cb5fe"
+					(reference "D12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
 		(at 110.49 88.9 90)
 		(unit 1)
 		(body_style 1)
@@ -7371,7 +7789,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 105.41 166.37 0)
+		(at 162.56 175.26 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7382,7 +7800,7 @@
 		(fields_autoplaced yes)
 		(uuid "7620df2c-953c-4732-a1dc-6127b456b3c5")
 		(property "Reference" "R53"
-			(at 107.95 165.0999 0)
+			(at 165.1 173.9899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7393,7 +7811,7 @@
 			)
 		)
 		(property "Value" "5.1K"
-			(at 107.95 167.6399 0)
+			(at 165.1 176.5299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7404,7 +7822,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 103.632 166.37 90)
+			(at 160.782 175.26 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7415,7 +7833,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 105.41 166.37 0)
+			(at 162.56 175.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7426,7 +7844,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 105.41 166.37 0)
+			(at 162.56 175.26 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8083,7 +8501,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 105.41 180.34 0)
+		(at 162.56 189.23 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8093,7 +8511,7 @@
 		(dnp no)
 		(uuid "afcb77c6-08ff-4032-b50a-e17408c35e2d")
 		(property "Reference" "#PWR092"
-			(at 105.41 186.69 0)
+			(at 162.56 195.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8104,7 +8522,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 108.458 183.134 0)
+			(at 165.608 192.024 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8114,7 +8532,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 105.41 180.34 0)
+			(at 162.56 189.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8125,7 +8543,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 105.41 180.34 0)
+			(at 162.56 189.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8136,7 +8554,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 105.41 180.34 0)
+			(at 162.56 189.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8242,6 +8660,86 @@
 			(project "AGAR"
 				(path "/4930e8a3-0a58-4861-9c4c-0d8b2139987a/aa053052-08e8-4d8c-b3d1-c385341cb5fe"
 					(reference "SW2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 111.76 179.07 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b130c031-38b1-4881-9120-d0ef43ae4a73")
+		(property "Reference" "R56"
+			(at 111.76 172.72 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "43"
+			(at 111.76 175.26 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 111.76 180.848 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 111.76 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 111.76 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "b9ae9500-73c7-4a1d-bc90-3ccef5c75837")
+		)
+		(pin "1"
+			(uuid "d22195ff-2108-4321-8a2a-f48062371f86")
+		)
+		(instances
+			(project "AGAR"
+				(path "/4930e8a3-0a58-4861-9c4c-0d8b2139987a/aa053052-08e8-4d8c-b3d1-c385341cb5fe"
+					(reference "R56")
 					(unit 1)
 				)
 			)
@@ -8807,6 +9305,86 @@
 	)
 	(symbol
 		(lib_id "Device:R")
+		(at 111.76 153.67 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c6928d13-6093-4aa1-a656-3abe94f4ac65")
+		(property "Reference" "R54"
+			(at 111.76 147.32 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "43"
+			(at 111.76 149.86 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 111.76 155.448 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 111.76 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 111.76 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "a8b7614b-502e-4d8e-8661-ab3b3234d65e")
+		)
+		(pin "1"
+			(uuid "db3eb03c-9fe9-4d56-9c7b-bcbcbab345a8")
+		)
+		(instances
+			(project "AGAR"
+				(path "/4930e8a3-0a58-4861-9c4c-0d8b2139987a/aa053052-08e8-4d8c-b3d1-c385341cb5fe"
+					(reference "R54")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
 		(at 93.98 39.37 0)
 		(unit 1)
 		(body_style 1)
@@ -9139,7 +9717,7 @@
 	)
 	(symbol
 		(lib_id "Eclectronics:SW")
-		(at 105.41 176.53 0)
+		(at 162.56 185.42 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9150,7 +9728,7 @@
 		(fields_autoplaced yes)
 		(uuid "d2000b4a-a189-46fa-97ba-d0a0648f1f89")
 		(property "Reference" "S3"
-			(at 106.68 175.2599 0)
+			(at 163.83 184.1499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9161,7 +9739,7 @@
 			)
 		)
 		(property "Value" "WAVE"
-			(at 106.68 177.7999 0)
+			(at 163.83 186.6899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9172,7 +9750,7 @@
 			)
 		)
 		(property "Footprint" "Eclectronics:TL3301AFxxxxJ"
-			(at 106.68 173.99 90)
+			(at 163.83 182.88 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9183,7 +9761,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 106.68 173.99 90)
+			(at 163.83 182.88 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9194,7 +9772,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 105.41 176.53 0)
+			(at 162.56 185.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9214,6 +9792,83 @@
 			(project "AGAR"
 				(path "/4930e8a3-0a58-4861-9c4c-0d8b2139987a/aa053052-08e8-4d8c-b3d1-c385341cb5fe"
 					(reference "S3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 120.65 166.37 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d3c78e5a-47b1-4fdd-ad6d-08c045ac0699")
+		(property "Reference" "#PWR094"
+			(at 120.65 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 123.698 169.164 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 120.65 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 120.65 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 120.65 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "92a34b48-e590-465c-abcc-96072cc3df13")
+		)
+		(instances
+			(project "AGAR"
+				(path "/4930e8a3-0a58-4861-9c4c-0d8b2139987a/aa053052-08e8-4d8c-b3d1-c385341cb5fe"
+					(reference "#PWR094")
 					(unit 1)
 				)
 			)
@@ -10223,6 +10878,97 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:LED")
+		(at 95.25 153.67 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fe5e6949-fc42-4f99-b64b-d472c74ba57b")
+		(property "Reference" "D10"
+			(at 96.8375 146.05 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED"
+			(at 96.8375 148.59 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+			(at 95.25 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 95.25 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 95.25 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 95.25 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "688fcd0c-4c74-4b9a-919f-af2b27d1a8e6")
+		)
+		(pin "1"
+			(uuid "18f9a487-67fb-4e63-af31-ce5a26837e01")
+		)
+		(instances
+			(project "AGAR"
+				(path "/4930e8a3-0a58-4861-9c4c-0d8b2139987a/aa053052-08e8-4d8c-b3d1-c385341cb5fe"
+					(reference "D10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3V3")
 		(at 193.04 134.62 0)
 		(unit 1)
@@ -10294,6 +11040,97 @@
 			(project "AGAR"
 				(path "/4930e8a3-0a58-4861-9c4c-0d8b2139987a/aa053052-08e8-4d8c-b3d1-c385341cb5fe"
 					(reference "#PWR061")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 95.25 166.37 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ffd7e0ee-3110-4996-881e-8a7746d410be")
+		(property "Reference" "D11"
+			(at 96.8375 158.75 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED"
+			(at 96.8375 161.29 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+			(at 95.25 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 95.25 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 95.25 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 95.25 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "9db0ddfa-2599-45ea-898c-be3c52861318")
+		)
+		(pin "1"
+			(uuid "3a677133-b18c-4d91-aef6-8162eae2497d")
+		)
+		(instances
+			(project "AGAR"
+				(path "/4930e8a3-0a58-4861-9c4c-0d8b2139987a/aa053052-08e8-4d8c-b3d1-c385341cb5fe"
+					(reference "D11")
 					(unit 1)
 				)
 			)
