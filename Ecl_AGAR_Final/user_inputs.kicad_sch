@@ -3118,12 +3118,6 @@
 		(uuid "11e2c5b2-4ee1-4c2d-99b9-9353d3e17688")
 	)
 	(junction
-		(at 175.26 104.14)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2a193af9-e339-4f21-b859-800e399af3d8")
-	)
-	(junction
 		(at 175.26 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3134,12 +3128,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3a5e52fe-239b-413f-87a7-ee7985b89fce")
-	)
-	(junction
-		(at 166.37 52.07)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "43855107-5f16-4f0f-b8a7-ced4ff2debdc")
 	)
 	(junction
 		(at 184.15 104.14)
@@ -3160,12 +3148,6 @@
 		(uuid "624f7b7d-3492-426f-ac3e-02f511c2c381")
 	)
 	(junction
-		(at 166.37 129.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "653dff22-c6f7-47c6-83c2-a95349ed39c2")
-	)
-	(junction
 		(at 60.96 43.18)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3182,12 +3164,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "86bdf314-3ea1-4d5a-8679-605b4ac505d1")
-	)
-	(junction
-		(at 175.26 26.67)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "924787d8-03e7-4364-afd9-f5740e6bf4a9")
 	)
 	(junction
 		(at 54.61 48.26)
@@ -3232,12 +3208,32 @@
 		(uuid "ec9b3ed5-7e25-47d9-9bc6-49e7487ed0e8")
 	)
 	(no_connect
-		(at 160.02 52.07)
-		(uuid "4fc0b334-954b-4bbb-9a67-b1b9541c702d")
+		(at 198.12 129.54)
+		(uuid "0c8ab23f-b97e-435c-b4bc-12a801c6d228")
 	)
 	(no_connect
-		(at 160.02 129.54)
-		(uuid "fbc1b1fc-cabd-4ae6-972f-83214b4f05b4")
+		(at 222.25 137.16)
+		(uuid "8d168ffd-ba0a-402f-a7c2-dd1abbe035e5")
+	)
+	(no_connect
+		(at 222.25 147.32)
+		(uuid "9995ffe7-2709-4de3-b04a-317818b1ff6d")
+	)
+	(no_connect
+		(at 222.25 144.78)
+		(uuid "9aecf516-083e-4429-8484-04020c8d79e7")
+	)
+	(no_connect
+		(at 222.25 139.7)
+		(uuid "aa572a08-61ed-40a7-8351-2e3c3a4debc0")
+	)
+	(no_connect
+		(at 222.25 142.24)
+		(uuid "b3bd51c9-5cfb-45b2-9ee2-857f926fec15")
+	)
+	(no_connect
+		(at 196.85 52.07)
+		(uuid "c32f5530-f3c1-4765-9017-445769c205cd")
 	)
 	(wire
 		(pts
@@ -3298,16 +3294,6 @@
 			(type default)
 		)
 		(uuid "0bbe2a3e-607a-4655-9497-2ecb5e63af37")
-	)
-	(wire
-		(pts
-			(xy 166.37 104.14) (xy 166.37 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0bc7953f-29da-40d6-920d-d134d05386a8")
 	)
 	(wire
 		(pts
@@ -3511,16 +3497,6 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 26.67) (xy 166.37 26.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "43e30185-12ab-4c17-b643-ca68e143fb4f")
-	)
-	(wire
-		(pts
 			(xy 223.52 119.38) (xy 223.52 72.39)
 		)
 		(stroke
@@ -3568,26 +3544,6 @@
 			(type default)
 		)
 		(uuid "588194bb-72dd-4444-81a1-05e5786ce3db")
-	)
-	(wire
-		(pts
-			(xy 166.37 118.11) (xy 166.37 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "59d38b16-1629-4e3c-818a-ee4c8c5ce099")
-	)
-	(wire
-		(pts
-			(xy 166.37 52.07) (xy 196.85 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5cb0f12a-3f6f-4490-ac9d-e7ace88a13a8")
 	)
 	(wire
 		(pts
@@ -3701,16 +3657,6 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 26.67) (xy 166.37 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7cb29f73-5661-4268-9574-aa739725cff1")
-	)
-	(wire
-		(pts
 			(xy 105.41 171.45) (xy 105.41 172.72)
 		)
 		(stroke
@@ -3811,16 +3757,6 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 129.54) (xy 196.85 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a8438c5f-2150-4e75-85b2-1d398cce0b56")
-	)
-	(wire
-		(pts
 			(xy 222.25 57.15) (xy 232.41 57.15)
 		)
 		(stroke
@@ -3858,16 +3794,6 @@
 			(type default)
 		)
 		(uuid "b15c614d-39e9-4b71-879a-f118ca823372")
-	)
-	(wire
-		(pts
-			(xy 160.02 129.54) (xy 166.37 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b453fe53-5dc7-4366-9582-9e2d16cffcb1")
 	)
 	(wire
 		(pts
@@ -3931,16 +3857,6 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 52.07) (xy 166.37 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c785ccb6-384b-44ad-98d7-ef01b7b37093")
-	)
-	(wire
-		(pts
 			(xy 184.15 104.14) (xy 184.15 110.49)
 		)
 		(stroke
@@ -3991,16 +3907,6 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 40.64) (xy 166.37 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d5b3a3cf-adee-4255-a391-2e1769d179cf")
-	)
-	(wire
-		(pts
 			(xy 222.25 44.45) (xy 232.41 44.45)
 		)
 		(stroke
@@ -4018,16 +3924,6 @@
 			(type default)
 		)
 		(uuid "d9b51848-5a0d-4a05-82ce-0078876881fb")
-	)
-	(wire
-		(pts
-			(xy 175.26 104.14) (xy 166.37 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dbdbf71a-7af2-4e80-8c28-84bd41455bbf")
 	)
 	(wire
 		(pts
@@ -4632,85 +4528,6 @@
 			(project "AGAR"
 				(path "/4930e8a3-0a58-4861-9c4c-0d8b2139987a/aa053052-08e8-4d8c-b3d1-c385341cb5fe"
 					(reference "R19")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "custom:Wire Pad")
-		(at 227.33 139.7 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "08846f9a-2802-474d-a75c-853d33007e86")
-		(property "Reference" "WirePad11"
-			(at 227.33 138.176 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Wire Pad"
-			(at 227.33 139.6999 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "AGAR_footprints:capacitive touch button"
-			(at 227.33 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 227.33 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Wire pad"
-			(at 227.076 143.764 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "f6ae4a0b-ea99-4f24-9a5b-828de1dcd347")
-		)
-		(instances
-			(project "AGAR"
-				(path "/4930e8a3-0a58-4861-9c4c-0d8b2139987a/aa053052-08e8-4d8c-b3d1-c385341cb5fe"
-					(reference "WirePad11")
 					(unit 1)
 				)
 			)
@@ -7302,85 +7119,6 @@
 		)
 	)
 	(symbol
-		(lib_id "custom:Wire Pad")
-		(at 227.33 137.16 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6a1ceac7-e98e-4eae-bee0-783080ed844b")
-		(property "Reference" "WirePad10"
-			(at 227.33 135.636 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Wire Pad"
-			(at 227.33 137.1599 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "AGAR_footprints:capacitive touch button"
-			(at 227.33 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 227.33 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Wire pad"
-			(at 227.076 141.224 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "28917c13-d8ac-428c-bc47-2e5f3ca2df31")
-		)
-		(instances
-			(project "AGAR"
-				(path "/4930e8a3-0a58-4861-9c4c-0d8b2139987a/aa053052-08e8-4d8c-b3d1-c385341cb5fe"
-					(reference "WirePad10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 110.49 88.9 90)
 		(unit 1)
@@ -8832,85 +8570,6 @@
 		)
 	)
 	(symbol
-		(lib_id "custom:Wire Pad")
-		(at 227.33 142.24 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "bf7b7f55-8487-437c-b75b-e053cc5035a6")
-		(property "Reference" "WirePad12"
-			(at 227.33 140.716 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Wire Pad"
-			(at 227.33 142.2399 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "AGAR_footprints:capacitive touch button"
-			(at 227.33 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 227.33 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Wire pad"
-			(at 227.076 146.304 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "0072d0cb-e1c7-47ec-8d41-3994c2b67936")
-		)
-		(instances
-			(project "AGAR"
-				(path "/4930e8a3-0a58-4861-9c4c-0d8b2139987a/aa053052-08e8-4d8c-b3d1-c385341cb5fe"
-					(reference "WirePad12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 119.38 114.3 0)
 		(unit 1)
@@ -9141,87 +8800,6 @@
 			(project "AGAR"
 				(path "/4930e8a3-0a58-4861-9c4c-0d8b2139987a/aa053052-08e8-4d8c-b3d1-c385341cb5fe"
 					(reference "#PWR052")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 166.37 36.83 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "c833ceea-5bf3-48cb-9b84-6113d3d6b486")
-		(property "Reference" "R16"
-			(at 159.766 35.052 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "4.7k, DNP"
-			(at 154.432 37.592 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 164.592 36.83 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 166.37 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 166.37 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "da3360d5-8d3e-4bbd-8fb9-b1b409a1806e")
-		)
-		(pin "1"
-			(uuid "13d2f072-9d92-4c9e-a442-d17abd8e81de")
-		)
-		(instances
-			(project "AGAR"
-				(path "/4930e8a3-0a58-4861-9c4c-0d8b2139987a/aa053052-08e8-4d8c-b3d1-c385341cb5fe"
-					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -10558,87 +10136,6 @@
 			(project "AGAR"
 				(path "/4930e8a3-0a58-4861-9c4c-0d8b2139987a/aa053052-08e8-4d8c-b3d1-c385341cb5fe"
 					(reference "R41")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 166.37 114.3 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "f75a62d2-a309-4056-adb3-d1895b77f688")
-		(property "Reference" "R17"
-			(at 159.258 115.062 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "4.7k, DNP"
-			(at 153.67 113.03 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 164.592 114.3 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 166.37 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 166.37 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "fd49e351-10c0-404f-8406-035160842edb")
-		)
-		(pin "1"
-			(uuid "2b73b929-f94e-4ade-81ec-4c84146337c5")
-		)
-		(instances
-			(project "AGAR"
-				(path "/4930e8a3-0a58-4861-9c4c-0d8b2139987a/aa053052-08e8-4d8c-b3d1-c385341cb5fe"
-					(reference "R17")
 					(unit 1)
 				)
 			)
