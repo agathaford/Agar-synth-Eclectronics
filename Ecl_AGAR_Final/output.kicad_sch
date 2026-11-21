@@ -3118,7 +3118,7 @@
 				)
 			)
 		)
-		(property "Value" "250u"
+		(property "Value" "2.2uF"
 			(at 234.95 91.44 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4682,7 +4682,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 239.0648 109.22 0)
 			(hide yes)
 			(show_name no)
