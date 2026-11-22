@@ -4725,7 +4725,7 @@
 				)
 			)
 		)
-		(property "Value" "43"
+		(property "Value" "1k"
 			(at 110.49 123.19 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7387,7 +7387,7 @@
 				)
 			)
 		)
-		(property "Value" "43"
+		(property "Value" "1k"
 			(at 111.76 162.56 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7558,7 +7558,7 @@
 				)
 			)
 		)
-		(property "Value" "43"
+		(property "Value" "1k"
 			(at 110.49 85.09 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7638,7 +7638,7 @@
 				)
 			)
 		)
-		(property "Value" "43"
+		(property "Value" "1k"
 			(at 110.49 135.89 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8687,7 +8687,7 @@
 				)
 			)
 		)
-		(property "Value" "43"
+		(property "Value" "1k"
 			(at 111.76 175.26 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9325,7 +9325,7 @@
 				)
 			)
 		)
-		(property "Value" "43"
+		(property "Value" "1k"
 			(at 111.76 149.86 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10658,7 +10658,7 @@
 				)
 			)
 		)
-		(property "Value" "43"
+		(property "Value" "1k"
 			(at 110.49 110.49 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10738,7 +10738,7 @@
 				)
 			)
 		)
-		(property "Value" "43"
+		(property "Value" "1k"
 			(at 110.49 97.79 90)
 			(show_name no)
 			(do_not_autoplace no)
